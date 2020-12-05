@@ -73,7 +73,6 @@ def get_install_requires():
         "tigeropen",
         "rqdatac",
         "ta-lib",
-        "ibapi",
         "deap",
         "pyzmq",
         "QScintilla"
